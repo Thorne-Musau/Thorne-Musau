@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://www.vecteezy.com/vector-art/1500454-student-using-laptop-icon" width="100"/>
 </div>
+
 ### Hi there 👋
 
 <div id="badges">
@@ -16,7 +17,7 @@
   I'm Thorne Musau
 </h2>
 <div align="center">
-  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
