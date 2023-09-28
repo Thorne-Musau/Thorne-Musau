@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://www.vecteezy.com/vector-art/1500454-student-using-laptop-icon" width="100"/>
+</div>
 ### Hi there 👋
 
 <div id="badges">
@@ -20,6 +23,7 @@
 
 ### 👨‍💻 About me:
 
+I'm a Software engineering and Data science student from Kenya
 - 🔭 I’m a Data science and Machine Learning student
 - 🌱 I’m currently taking a Software Engineering course at Multimedia University of Kenya 
 - ⚡ In my free time I do coding challenges on Leetcode
