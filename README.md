@@ -17,7 +17,7 @@
   I'm Thorne Musau
 </h2>
 <div align="center">
-  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/creative-coding-programming-zgduo4kWRRDVK" width="200" height="300"/>
 </div>
 
 ---
