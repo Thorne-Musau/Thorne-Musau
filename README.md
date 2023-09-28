@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Thorne-Musau&style=flat-square&color=blue" alt=""/>
 <h1>
   Im Thorne Musau, currently a Data Science and machine Learning student
 </h1>
