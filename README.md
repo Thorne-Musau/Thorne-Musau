@@ -48,7 +48,7 @@ I'm a Software engineering and Data science student from Kenya
 
 ### 🔥 My Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Thorne-Musau&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Thorne-Musau)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorne-Musau&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Thorne-Musau/Thorne-Musau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
