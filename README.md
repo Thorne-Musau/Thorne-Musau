@@ -26,7 +26,7 @@
 I'm a Software engineering and Data science student from Kenya
 - 🔭 I’m a Data science and Machine Learning student
 - 🌱 I’m currently taking a Software Engineering course at Multimedia University of Kenya 
-- ⚡ In my free time I do coding challenges on Leetcode
+- ⚡ In my free time I do Leetcode
 - 📫 : How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thorne-musau-9b2361232/)
 
 ---
