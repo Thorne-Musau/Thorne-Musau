@@ -1,7 +1,5 @@
 ## About Me: 👋
 
----
-
 A future-driven and methodical individual with data entry experience and a knack for solving problems in data hackathons, seeking a data science and data analysis
 - 🔭 I’m passionate about analyzing data and building machine learning models to provide data-driven and informed decisions.
 
