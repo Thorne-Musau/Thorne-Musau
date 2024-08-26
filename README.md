@@ -46,9 +46,6 @@ A future-driven and methodical individual with data entry experience and a knack
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" title="Kafka" alt="Kafka" />&nbsp;
   <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" title="Hadoop" alt="Hadoop" />&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow" alt="TensorFlow" />&nbsp;
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="Kaggle" alt="Kaggle" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Ubuntu" alt="Ubuntu" />&nbsp;
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows" />&nbsp;
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-Learn" alt="Scikit-Learn" />&nbsp;
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" title="SciPy" alt="SciPy" />&nbsp;
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" title="PyTorch" alt="PyTorch" />&nbsp;
@@ -58,6 +55,9 @@ A future-driven and methodical individual with data entry experience and a knack
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" title="R-Studio" alt="R-Studio" />&nbsp;
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" title="Colab" alt="Colab" />&nbsp;
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" />&nbsp;
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" title="Kaggle" alt="Kaggle" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Ubuntu" alt="Ubuntu" />&nbsp;
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" title="Windows" alt="Windows" />&nbsp;
 </div>
 
 ---
