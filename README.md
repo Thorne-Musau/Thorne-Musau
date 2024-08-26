@@ -1,34 +1,33 @@
-### Hi there 👋
+## About Me: 👋
 
-<div id="badges" align="center">
+---
+
+A future-driven and methodical individual with data entry experience and a knack for solving problems in data hackathons, seeking a data science and data analysis
+- 🔭 I’m passionate about analyzing data and building machine learning models to provide data-driven and informed decisions.
+
+---
+
+### 🌐 Socials:
+<div>
   <a href="https://www.linkedin.com/in/thorne-musau/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/mvs4v" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Thorne-Musau/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Thorne-Musau&style=flat-square&color=blue" alt=""/>
 
-<h2 align="center">
-  I'm Thorne Musau
-</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 ---
 
-### 👨‍💻 About Me:
-
-I'm a Software Engineering and Data Science student from Kenya. I'm passionate about analyzing data and building machine learning models to provide data-driven and informed decisions.
-
-- 🔭 I’m passionate about analyzing data and building machine learning models to provide data-driven and informed decisions.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ThorneMusau-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thorne-musau-9b2361232/)
-
----
-
-### 🛠️ Tech Stack and Languages:
+### 💻 Tech Stack and Languages:
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" />&nbsp;
@@ -65,7 +64,7 @@ I'm a Software Engineering and Data Science student from Kenya. I'm passionate a
 
 ---
 
-### 🔥 My Stats:
+### 📊 My Stats:
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -78,13 +77,3 @@ I'm a Software Engineering and Data Science student from Kenya. I'm passionate a
 
 ---
 
-### 🌐 Socials:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/thorne-musau/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/mvs4v" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
